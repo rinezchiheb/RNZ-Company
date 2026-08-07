@@ -85,7 +85,9 @@ export default function HeroSection() {
             className="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center"
           >
             <Link
-              href="/contact"
+              href="https://calendly.com/shyhebrinez/30-min-meeting"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group inline-flex items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-[#05070d] transition-colors hover:bg-zinc-200"
             >
               Book a free assessment
@@ -93,12 +95,6 @@ export default function HeroSection() {
                 className="h-4 w-4 transition-transform duration-200 group-hover:translate-x-0.5"
                 aria-hidden="true"
               />
-            </Link>
-            <Link
-              href="#solutions"
-              className="inline-flex items-center justify-center gap-2 rounded-full border border-white/15 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white/5"
-            >
-              Explore our solutions
             </Link>
           </motion.div>
 
