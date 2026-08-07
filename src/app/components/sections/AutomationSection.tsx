@@ -80,7 +80,7 @@ export default function AutomationSection() {
         >
           <h2
             id="automation-heading"
-            className="text-3xl font-semibold leading-[1.1] tracking-tight text-white sm:text-4xl lg:text-[2.75rem]"
+            className="font-heading text-3xl font-semibold leading-[1.1] tracking-tight text-white sm:text-4xl lg:text-[2.75rem]"
           >
             Automate the work that slows you down.
           </h2>

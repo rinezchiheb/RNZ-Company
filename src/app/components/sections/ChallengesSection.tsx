@@ -58,7 +58,7 @@ export default function ChallengesSection() {
         >
           <h2
             id="challenges-heading"
-            className="text-3xl font-semibold leading-[1.1] tracking-tight text-white sm:text-4xl lg:text-[2.75rem]"
+            className="font-heading text-3xl font-semibold leading-[1.1] tracking-tight text-white sm:text-4xl lg:text-[2.75rem]"
           >
             Your workflows shouldn&apos;t depend on manual work.
           </h2>

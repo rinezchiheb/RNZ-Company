@@ -48,7 +48,7 @@ export default function FeatureCard({
         <Icon className="h-5 w-5" strokeWidth={1.75} aria-hidden="true" />
       </span>
 
-      <h3 className="relative mt-5 text-base font-semibold text-white">{title}</h3>
+      <h3 className="relative mt-5 font-heading text-base font-semibold text-white">{title}</h3>
       <p className="relative mt-2 text-sm leading-relaxed text-zinc-400">{description}</p>
 
       {showArrow && (

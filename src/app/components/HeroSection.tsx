@@ -56,7 +56,7 @@ export default function HeroSection() {
             initial="hidden"
             animate="show"
             custom={0.1}
-            className="mt-5 text-4xl font-semibold leading-[1.1] tracking-tight text-white sm:text-5xl lg:text-[3.25rem]"
+            className="mt-5 font-heading text-4xl font-semibold leading-[1.1] tracking-tight text-white sm:text-5xl lg:text-[3.25rem]"
           >
             Turn your operations into an{" "}
             <span className="bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
