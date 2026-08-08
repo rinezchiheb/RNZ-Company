@@ -1,6 +1,9 @@
 import HeroSection from "./components/HeroSection";
 import ChallengesSection from "./components/sections/ChallengesSection";
 import AutomationSection from "./components/sections/AutomationSection";
+import HowItWorksSection from "./components/sections/HowItWorksSection";
+import AIComparisonSection from "./components/sections/AIComparisonSection";
+import UseCasesSection from "./components/sections/UseCasesSection";
 
 export default function Home() {
   return (
@@ -8,6 +11,9 @@ export default function Home() {
       <HeroSection />
       <ChallengesSection />
       <AutomationSection />
+      <HowItWorksSection />
+      <AIComparisonSection />
+      <UseCasesSection />
     </main>
   );
 }

@@ -41,7 +41,7 @@ export default function ChallengesSection() {
   return (
     <section
       aria-labelledby="challenges-heading"
-      className="relative border-t border-white/5 bg-[#05070d] py-24 lg:py-32"
+      className="relative overflow-hidden border-t border-white/5 bg-[#05070d] py-24 lg:py-32"
     >
       <div
         className="pointer-events-none absolute left-[-10%] top-1/3 -z-10 h-[24rem] w-[24rem] rounded-full bg-blue-600/10 blur-[120px]"
